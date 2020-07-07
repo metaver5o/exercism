@@ -1,2 +1,2 @@
 # exercism
-exercism patch to golang
+exercism path to golang
